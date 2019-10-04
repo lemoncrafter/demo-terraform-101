@@ -1,7 +1,7 @@
 # Terraform Workspace Variables
 export TF_VAR_ami=ami-07d0cf3af28718ef8
 echo "TF_VAR_ami=$TF_VAR_ami"
-export TF_VAR_identity=
+export TF_VAR_identity=emiliano
 echo "TF_VAR_identity=$TF_VAR_identity"
 export TF_VAR_subnet_id=subnet-0ee95f34e3e3c4052
 echo "TF_VAR_subnet_id=$TF_VAR_subnet_id"
