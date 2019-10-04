@@ -1,7 +1,7 @@
 # AWS
-export AWS_ACCESS_KEY_ID=
+export AWS_ACCESS_KEY_ID=AKIAS2SBIDLVYJO7NOPA
 echo "AWS_ACCESS_KEY_ID environment variable set"
-export AWS_SECRET_ACCESS_KEY=
+export AWS_SECRET_ACCESS_KEY=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
 echo "AWS_SECRET_ACCESS_KEY environment variable set"
 
 # Terraform Cloud
